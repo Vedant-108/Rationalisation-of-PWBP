@@ -16,7 +16,7 @@ The following are the deployable versions with sequential improvements:
 - `PWBP_tabs_code1920px_V2.py`
 - `PWBP_tabs_code1920px_V2_v1.py`
 - `PWBP_tabs_code1920px_V3.py` (RQD integration not complete; backend for RQD needs to be created before deployment)
-- `PWBP_tabs_code1920px_V3_v1.py` (With deployable code)
+- `PWBP_tabs_code1920px_V3_v1.py` (With deployable code , RQD not used)
 - `PWBP_tabs_code1920px_V3_v1_withoutlogos.py` (Used to produce the screenshots for the research paper)
 
 ## Deployment
