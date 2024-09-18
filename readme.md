@@ -39,5 +39,3 @@ Alternatively, you can use `auto-py-to-exe` for a GUI-based implementation:
 - `PWBP_tabs_code1920px_V3_v1_withoutlogos.py` was specifically used for producing research paper screenshots.
 
 For further details on PyInstaller and auto-py-to-exe, refer to their respective documentation.
-# Rationalisation-of-PWBP
-
