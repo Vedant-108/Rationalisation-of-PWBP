@@ -40,8 +40,4 @@ Alternatively, you can use `auto-py-to-exe` for a GUI-based implementation:
 
 For further details on PyInstaller and auto-py-to-exe, refer to their respective documentation.
 # Rationalisation-of-PWBP
-# Rationalisation-of-PWBP
-# Rationalisation-of-PWBP
-# Rationalisation-of-PWBP
-# Rationalisation-of-PWBP
-# Rationalisation-of-PWBP
+
